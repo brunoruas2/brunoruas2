@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
   Bruno de M. Ruas
-  <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
 <br/>
@@ -33,7 +31,9 @@
 
 #
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brunoruas2&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=brunoruas2&no-bg=true&no-frame=true&theme=juicyfresh" />
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoruas2&theme=dark&hide_border=true"/>
