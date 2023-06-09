@@ -1,5 +1,5 @@
 <h1 align="center">
-  Bruno de M. Ruas
+  Bruno de Melo Ruas
 </h1>
 
 <br/>
