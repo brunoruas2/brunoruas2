@@ -29,19 +29,6 @@
   </code>
 </p> -->
 
-#
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=brunoruas2&no-bg=true&no-frame=true&theme=juicyfresh" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoruas2&theme=dark&hide_border=true"/>
-</p>
-
-#
-
-
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
 <br/>
@@ -54,10 +41,24 @@
   <code><img height="40" width="40" src="https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png"></code>
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+  <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434"></code>
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 </p>
 
 <br/>
+
+#
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=brunoruas2&no-bg=true&no-frame=true&theme=juicyfresh" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoruas2&theme=dark&hide_border=true"/>
+</p>
+
+#
+
 
 <!--
 #
