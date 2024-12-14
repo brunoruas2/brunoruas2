@@ -25,7 +25,7 @@
   </code>
 </p> -->
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
 <p align='center'>
   <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png"></code>
   <code><img height="40" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
@@ -40,7 +40,7 @@
 
 <br/>
 
-**BADGUES AND CERTIFICATES:**  
+**𝙱𝙰𝙳𝙶𝚄𝙴𝚂 𝙰𝙽𝙳 𝙲𝙴𝚁𝚃𝙸𝙵𝙸𝙲𝙰𝚃𝙴𝚂:**
  - [AWS Certified Cloud Pratictioner](https://www.credly.com/badges/5e882862-8046-4767-877f-8b1db0e37c67/public_url)
  - [AWS Knowledge: Cloud Essentials](https://www.credly.com/badges/1318ecb4-fd1f-41f9-bc9b-4a47af94aa4c/public_url)
  - [AWS Billing and Cost Management](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/AWS%20Billing%20and%20Cost%20Management.pdf)
