@@ -13,15 +13,13 @@
 
 [My personal blog](https://brunoruas2.github.io/CC_site/)
 
-
 <br/>
 <br/>
 
 
 <p align="center">
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/brunoruas2?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/brunoruas2?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/brunoruas2"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+  <img src="https://img.shields.io/github/stars/brunoruas2?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 <!-- <p align="center">
   <code>
@@ -30,12 +28,9 @@
 </p> -->
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-
 <br/>
-<br/>
-
 <p align='center'>
-  <code><img height="40" width="40" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
+  <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png"></code>
   <code><img height="40" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
   <code><img height="40" width="40" src="https://seeklogo.com/images/R/r-project-logo-A101B11270-seeklogo.com.png"></code>
   <code><img height="40" width="40" src="https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png"></code>
@@ -43,9 +38,17 @@
   <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
   <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434"></code>
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="40" width="40" src="https://logospng.org/wp-content/uploads/amazon-web-services.png"></code>  
 </p>
 
 <br/>
+
+**BADGES AND CERTIFICATES:**
+<br/>
+
+[AWS Certified Cloud Pratictioner](https://www.credly.com/badges/5e882862-8046-4767-877f-8b1db0e37c67/public_url)
+
+[AWS Knowledge: Cloud Essentials](https://www.credly.com/badges/1318ecb4-fd1f-41f9-bc9b-4a47af94aa4c/public_url)
 
 #
 
