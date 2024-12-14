@@ -1,15 +1,18 @@
 <h1 align="center">
-  Bruno de Melo Ruas
+  Bruno de Melo Ruas - Developer
 </h1>
 
 <br/>
 <br/>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Backend Development.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Software Archtecture, Tests and Problem Solving.**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Data Science, Data Engenearing, Finance, Web Dev, Backend and Data Analysis.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Software Archtecture, AI, Automated Tests and Problem Solving.**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Data Science, Data Engenearing, Finance, Web Dev and Backend.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://www.twitter.com/bruno_ruas2) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **My First degree was in Economics and I play Bass Guitar.**
+
+[My personal blog](https://brunoruas2.github.io/CC_site/)
+
 
 <br/>
 <br/>
