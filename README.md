@@ -41,12 +41,10 @@
 
 <br/>
 
-**BADGES AND CERTIFICATES:**
+**BADGUES AND CERTIFICATES:**  
 <br/>
-
-[AWS Certified Cloud Pratictioner](https://www.credly.com/badges/5e882862-8046-4767-877f-8b1db0e37c67/public_url)
-
-[AWS Knowledge: Cloud Essentials](https://www.credly.com/badges/1318ecb4-fd1f-41f9-bc9b-4a47af94aa4c/public_url)
+ - [AWS Certified Cloud Pratictioner](https://www.credly.com/badges/5e882862-8046-4767-877f-8b1db0e37c67/public_url)
+ - [AWS Knowledge: Cloud Essentials](https://www.credly.com/badges/1318ecb4-fd1f-41f9-bc9b-4a47af94aa4c/public_url)
 
 #
 
