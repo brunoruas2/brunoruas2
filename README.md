@@ -46,8 +46,8 @@
  - [AWS Billing and Cost Management](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/AWS%20Billing%20and%20Cost%20Management.pdf)
  - [AWS Cloud Practitioner Essentials](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/AWS%20Cloud%20Practitioner%20Essentials.pdf)
  - [AWS Foundation - Getting Started with the AWS](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/AWS%20Foundation%20-%20Getting%20Started%20with%20the%20AWS.pdf)
- - [Getting Started with Cloud Acquisition](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/Getting%20Started%20with%20Cloud%20Acquisition.pdf)
- - [Job Roles in the Cloud](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/Job%20Roles%20in%20the%20Cloud.pdf)
+ - [AWS Getting Started with Cloud Acquisition](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/Getting%20Started%20with%20Cloud%20Acquisition.pdf)
+ - [AWS Job Roles in the Cloud](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/Job%20Roles%20in%20the%20Cloud.pdf)
 
 #
 
