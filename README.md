@@ -12,8 +12,6 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: **My First degree was in Economics and I play Bass Guitar.**
 
 <br/>
-<br/>
-
 
 <p align="center">
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/brunoruas2?label=Followers&style=social"> •
