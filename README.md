@@ -26,7 +26,6 @@
 </p> -->
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
 <p align='center'>
   <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png"></code>
   <code><img height="40" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
@@ -42,9 +41,13 @@
 <br/>
 
 **BADGUES AND CERTIFICATES:**  
-<br/>
  - [AWS Certified Cloud Pratictioner](https://www.credly.com/badges/5e882862-8046-4767-877f-8b1db0e37c67/public_url)
  - [AWS Knowledge: Cloud Essentials](https://www.credly.com/badges/1318ecb4-fd1f-41f9-bc9b-4a47af94aa4c/public_url)
+ - [AWS Billing and Cost Management](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/AWS%20Billing%20and%20Cost%20Management.pdf)
+ - [AWS Cloud Practitioner Essentials](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/AWS%20Cloud%20Practitioner%20Essentials.pdf)
+ - [AWS Foundation - Getting Started with the AWS](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/AWS%20Foundation%20-%20Getting%20Started%20with%20the%20AWS.pdf)
+ - [Getting Started with Cloud Acquisition](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/Getting%20Started%20with%20Cloud%20Acquisition.pdf)
+ - [Job Roles in the Cloud](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/Job%20Roles%20in%20the%20Cloud.pdf)
 
 #
 
