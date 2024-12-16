@@ -24,6 +24,8 @@
 </p> -->
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
+<br/>
+
 [![My Skills](https://skillicons.dev/icons?i=dotnet,go,js,aws,azure,py,cs,django,git,html,css,laravel,php,latex,md,r,rabbitmq,selenium)](https://skillicons.dev)
 
 <br/>
