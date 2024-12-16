@@ -39,8 +39,6 @@
  - [AWS Getting Started with Cloud Acquisition](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/Getting%20Started%20with%20Cloud%20Acquisition.pdf)
  - [AWS Job Roles in the Cloud](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/Job%20Roles%20in%20the%20Cloud.pdf)
 
-#
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoruas2&show_icons=true&theme=radical)
 
 <!--
