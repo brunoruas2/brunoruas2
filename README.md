@@ -24,18 +24,7 @@
 </p> -->
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
-<p align='center'>
-  <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png"></code>
-  <code><img height="40" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
-  <code><img height="40" width="40" src="https://seeklogo.com/images/R/r-project-logo-A101B11270-seeklogo.com.png"></code>
-  <code><img height="40" width="40" src="https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png"></code>
-  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-  <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434"></code>
-  <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="40" width="40" src="https://logospng.org/wp-content/uploads/amazon-web-services.png"></code>  
-  <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvXnqwIYOSrQlWWSjkJENdYg0YMMHUxtDBnZjXOhnUGNwbpPEtpyZIzPfUl_UJH8UbdGQ"></code>  
-</p>
+[![My Skills](https://skillicons.dev/icons?i=dotnet,go,js,aws,azure,py,cs,django,git,html,css,laravel,php,latex,md,r,rabbitmq,selenium)](https://skillicons.dev)
 
 <br/>
 
