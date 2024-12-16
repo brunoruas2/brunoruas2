@@ -43,13 +43,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoruas2&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoruas2&layout=compact&theme=radical)](https://github.com/brunoruas2)
-
-
-
 <!--
-#
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoruas2&layout=compact&theme=radical)](https://github.com/brunoruas2)
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
