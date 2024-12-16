@@ -41,15 +41,10 @@
 
 #
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=brunoruas2&no-bg=true&no-frame=true&theme=juicyfresh" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoruas2&show_icons=true&theme=radical)
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoruas2&theme=dark&hide_border=true"/>
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoruas2&layout=compact&theme=radical)](https://github.com/brunoruas2)
 
-#
 
 
 <!--
