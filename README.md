@@ -3,7 +3,6 @@
 </h1>
 
 <br/>
-<br/>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Backend Development.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Software Archtecture, AI, Automated Tests and Problem Solving.**
@@ -39,7 +38,11 @@
  - [AWS Getting Started with Cloud Acquisition](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/Getting%20Started%20with%20Cloud%20Acquisition.pdf)
  - [AWS Job Roles in the Cloud](https://github.com/brunoruas2/brunoruas2/blob/main/certificates/Job%20Roles%20in%20the%20Cloud.pdf)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoruas2&show_icons=true&theme=radical)
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunoruas2&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
 
 <!--
 
