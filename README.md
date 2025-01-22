@@ -22,10 +22,15 @@
   </code>
 </p> -->
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂:**
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,go,js,aws,azure,py,cs,django,git,html,css,laravel,php,latex,md,r,rabbitmq,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,py,cs,html,css,php,latex,r,md)](https://skillicons.dev)
+
+**𝚃𝙾𝙾𝙻𝚂:**
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,django,git,laravel,rabbitmq,selenium)](https://skillicons.dev)
 
 <br/>
 
