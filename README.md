@@ -25,7 +25,7 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂:**
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,py,cs,html,css,php,latex,r,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,js,go,html,css,php,latex,r,md)](https://skillicons.dev)
 
 **𝚃𝙾𝙾𝙻𝚂:**
 <br/>
