@@ -30,7 +30,7 @@
 **𝚃𝙾𝙾𝙻𝚂:**
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,django,git,laravel,rabbitmq,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,django,git,laravel,rabbitmq,selenium,neovim,dotnet)](https://skillicons.dev)
 
 <br/>
 
@@ -48,6 +48,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brunoruas2&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
+
+**MY WORKFLOW:**
+- NeoVim with kickstart
+- PowerToys for key remaps
+- GlazeWM for Windows Manager
+- Windows Terminal
 
 <!--
 
